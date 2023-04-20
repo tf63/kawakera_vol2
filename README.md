@@ -2,6 +2,7 @@
 
 ![](docs/img/development.jpg)
 
+[スライド: Animal GO](https://www.canva.com/design/DAFgO7AWKls/gO9K095hz-4Ld92Eu2_izg/view?utm_content=DAFgO7AWKls&utm_campaign=designshare&utm_medium=link&utm_source=viewer)
 ## やること
 - 一回devをmasterにマージしたい
 - 過去の実行をリスト表示
